@@ -4,6 +4,12 @@
 
 I am a recent Master’s graduate in Information Technology (April 2024) with 4 years of professional experience as a Data Analyst. Passionate about exploring data, solving complex problems, and leveraging technology, I am eager to advance my career in data analytics and continue learning cutting-edge tools and methodologies.
 
+## Projects
+- <a href="https://github.com/KandukuriSukeerthi/Customer-Behavior-Analysis">Customer Behavior Analysis</a>
+- <a href="https://github.com/KandukuriSukeerthi/Retail-Sales-Analysis">Retail Sales Analysis</a>
+- <a href="https://github.com/KandukuriSukeerthi/Infrastructure-Discrepancies-Analysis">Infrastructure Discrepancies Analysis </a>
+- <a href="https://github.com/KandukuriSukeerthi/jira-ticket-automation">Jira Ticket Automation</a>
+
 ## Certifications
 <img src="https://img.shields.io/badge/-AZ--104-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 <!--
@@ -41,18 +47,4 @@ I am a recent Master’s graduate in Information Technology (April 2024) with 4 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
 -->

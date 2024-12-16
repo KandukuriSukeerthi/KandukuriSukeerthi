@@ -1,62 +1,78 @@
 
 # Hello, I'm Sukeerthi Kandukuri
-Data Analyst | Data Storyteller | 
+Data Analyst | Insights-Driven Storyteller
+
 <a href="https://linkedin.com/sukeerthi-kandukuri"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Master’s graduate in Information Technology (April 2024) with 4 years of professional experience as a Data Analyst. Passionate about exploring data, solving complex problems, and leveraging technology, I am eager to advance my career in data analytics and continue learning cutting-edge tools and methodologies.
+I am a recent Master’s graduate in Information Technology (April 2024) with 4 years of professional experience as a Data Analyst. Passionate about exploring data, solving complex problems, and leveraging technology, I am excited to advance my career in data analytics and continue learning cutting-edge tools and methodologies.
 
 ## Projects
-1. **[Customer Behavior Analysis](<a href="https://github.com/KandukuriSukeerthi/Customer-Behavior-Analysis"></a>)**  
+1. <a href="https://github.com/KandukuriSukeerthi/Customer-Behavior-Analysis">**Customer Behavior Analysis**</a>
+
    Analyzing customer segmentation and purchase behavior using Python and R to uncover actionable insights for retail decision-making.  
 
-2. **[Retail Sales Analysis](link)**  
+2. <a href="https://github.com/KandukuriSukeerthi/Retail-Sales-Analysis">**Retail Sales Analysis** </a>
+
    Visualization and sales trend analysis using Python, SQL, and Power BI. Focused on revenue, profit margins, and growth trends.  
 
-3. **[Infrastructure Discrepancies Analysis](link)**  
-   Addressing mismatches between reported and actual data across multiple facilities using SQL and Python.  
+3. <a href="https://github.com/KandukuriSukeerthi/Infrastructure-Discrepancies-Analysis">**Infrastructure Discrepancies Analysis**</a>
 
-4. **[JIRA Ticket Automation](link)**  
+   Identifying discrepancies between expected and actual resources allocated across multiple facilities using Python.  
+
+4. <a href="https://github.com/KandukuriSukeerthi/jira-ticket-automation">**JIRA Ticket Automation**</a>
+
    Automated JIRA workflows using Python to streamline task assignments and reporting.
-- <a href="https://github.com/KandukuriSukeerthi/Customer-Behavior-Analysis">Customer Behavior Analysis</a>
-- <a href="https://github.com/KandukuriSukeerthi/Retail-Sales-Analysis">Retail Sales Analysis</a>
-- <a href="https://github.com/KandukuriSukeerthi/Infrastructure-Discrepancies-Analysis">Infrastructure Discrepancies Analysis </a>
-- <a href="https://github.com/KandukuriSukeerthi/jira-ticket-automation">Jira Ticket Automation</a>
+
+## Skills & Expertise
+
+### **Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  ![Scripting](https://img.shields.io/badge/-Scripting-0052CC?logo=terminal&logoColor=white&style=flat)
+
+---
+
+### **Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white&style=flat)  ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat)
+
+---
+
+### **Frameworks**  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=python&logoColor=white&style=flat)  ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=flat)  ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat)  ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)  ![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3?logo=r&logoColor=white&style=flat)  ![dplyr](https://img.shields.io/badge/-dplyr-276DC3?logo=r&logoColor=white&style=flat)
+
+---
+
+### **Big Data**  
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)  ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white&style=flat)
+
+---
+
+### **Visualization**  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+
+---
+
+### **Cloud**  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)  ![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-003B5C?logo=azure-devops&logoColor=white&style=flat) ![Azure Synapse](https://img.shields.io/badge/-Azure%20Synapse-0085CA?logo=azure-synapse-analytics&logoColor=white&style=flat) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-232F3E?logo=amazonaws&logoColor=white&style=flat)  ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=black&style=flat)  ![AWS CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-FF4F8B?logo=amazonaws&logoColor=white&style=flat)
+
+---
+
+### **Methodologies**  
+![SDLC](https://img.shields.io/badge/-SDLC-0052CC?style=flat)  ![Agile (Scrum)](https://img.shields.io/badge/-Agile%20(Scrum)-2496ED?logo=agile&logoColor=white&style=flat)
+
+---
+
+### **Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  ![SAS](https://img.shields.io/badge/-SAS-003F87?logo=sas&logoColor=white&style=flat)  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat)  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat)  ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
+
+---
+
+### **Data Analysis Expertise**  
+- **Data Preparation & Integration**  
+- **Exploratory & Statistical Analysis**  
+- **Data Modeling & Forecasting**  
+- **Data Visualization & Storytelling**  
+- **Data Governance & Compliance**  
+- **Advanced Analytics & Data Science**
+
 
 ## Certifications
 <img src="https://img.shields.io/badge/-AZ--104-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-<!--
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
--->

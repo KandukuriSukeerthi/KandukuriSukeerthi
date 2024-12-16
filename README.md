@@ -1,10 +1,22 @@
 
 # Hello, I'm Sukeerthi Kandukuri
+Data Analyst | Data Storyteller | 
 <a href="https://linkedin.com/sukeerthi-kandukuri"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent Master’s graduate in Information Technology (April 2024) with 4 years of professional experience as a Data Analyst. Passionate about exploring data, solving complex problems, and leveraging technology, I am eager to advance my career in data analytics and continue learning cutting-edge tools and methodologies.
 
 ## Projects
+1. **[Customer Behavior Analysis](<a href="https://github.com/KandukuriSukeerthi/Customer-Behavior-Analysis"></a>)**  
+   Analyzing customer segmentation and purchase behavior using Python and R to uncover actionable insights for retail decision-making.  
+
+2. **[Retail Sales Analysis](link)**  
+   Visualization and sales trend analysis using Python, SQL, and Power BI. Focused on revenue, profit margins, and growth trends.  
+
+3. **[Infrastructure Discrepancies Analysis](link)**  
+   Addressing mismatches between reported and actual data across multiple facilities using SQL and Python.  
+
+4. **[JIRA Ticket Automation](link)**  
+   Automated JIRA workflows using Python to streamline task assignments and reporting.
 - <a href="https://github.com/KandukuriSukeerthi/Customer-Behavior-Analysis">Customer Behavior Analysis</a>
 - <a href="https://github.com/KandukuriSukeerthi/Retail-Sales-Analysis">Retail Sales Analysis</a>
 - <a href="https://github.com/KandukuriSukeerthi/Infrastructure-Discrepancies-Analysis">Infrastructure Discrepancies Analysis </a>

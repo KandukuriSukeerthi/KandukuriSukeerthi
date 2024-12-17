@@ -9,7 +9,7 @@ I am a recent Master’s graduate in Information Technology (April 2024) with 4 
 ## Projects
 1. <a href="https://github.com/KandukuriSukeerthi/Customer-Behavior-Analysis">**Customer Behavior Analysis**</a>
 
-   Analyzing customer segmentation and purchase behavior using Python and R to uncover actionable insights for retail decision-making.  
+   Analyzing customer segmentation and purchasing behavior using Python, R, and Tableau to derive actionable insights for optimizing sale strategies. This project focuses on targeted marketing, campaign effectiveness, and data-driven decision-making to enhance customer engagement and profitability. 
 
 2. <a href="https://github.com/KandukuriSukeerthi/Retail-Sales-Analysis">**Retail Sales Analysis** </a>
 

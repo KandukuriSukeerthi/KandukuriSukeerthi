@@ -13,7 +13,7 @@ I am a recent Master’s graduate in Information Technology (April 2024) with 4 
 
 2. <a href="https://github.com/KandukuriSukeerthi/Retail-Sales-Analysis">**Retail Sales Analysis** </a>
 
-   Visualization and sales trend analysis using Python, SQL, and Power BI. Focused on revenue, profit margins, and growth trends.  
+   Analyzed four years of retail sales data to uncover insights on revenue drivers, profit margins, and discount impacts. Leveraged Python and Power BI to identify top-performing regions, seasonal trends, and underperforming products, providing actionable recommendations for growth and profitability.   
 
 3. <a href="https://github.com/KandukuriSukeerthi/Infrastructure-Discrepancies-Analysis">**Infrastructure Discrepancies Analysis**</a>
 

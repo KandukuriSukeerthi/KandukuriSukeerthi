@@ -7,19 +7,23 @@ Data Analyst | Insights-Driven Storyteller
 I am a recent Master’s graduate in Information Technology (April 2024) with 4 years of professional experience as a Data Analyst. Passionate about exploring data, solving complex problems, and leveraging technology, I am excited to advance my career in data analytics and continue learning cutting-edge tools and methodologies.
 
 ## Projects
-1. <a href="https://github.com/KandukuriSukeerthi/Customer-Behavior-Analysis">**Customer Behavior Analysis**</a>
+1. <a href="https://github.com/KandukuriSukeerthi/Healthcare-Claims-and-Patient-Analytics">**Healthcare Claims & Patient Analytics**</a>
+
+   Analyzes healthcare claims and patient data to optimize claim processing, monitor key metrics like readmission and adherence rates, and provide insights into demographic trends. Leveraging Python, Azure Data Factory, and Power BI, it delivers actionable recommendations to enhance operational efficiency and improve patient outcomes.
+
+2. <a href="https://github.com/KandukuriSukeerthi/Customer-Behavior-Analysis">**Customer Behavior Analysis**</a>
 
    Analyzing customer segmentation and purchasing behavior using Python, R, and Tableau to derive actionable insights for optimizing sale strategies. This project focuses on targeted marketing, campaign effectiveness, and data-driven decision-making to enhance customer engagement and profitability. 
 
-2. <a href="https://github.com/KandukuriSukeerthi/Retail-Sales-Analysis">**Retail Sales Analysis** </a>
+3. <a href="https://github.com/KandukuriSukeerthi/Retail-Sales-Analysis">**Retail Sales Analysis** </a>
 
    Analyzed four years of retail sales data to uncover insights on revenue drivers, profit margins, and discount impacts. Leveraged Python and Power BI to identify top-performing regions, seasonal trends, and underperforming products, providing actionable recommendations for growth and profitability.   
 
-3. <a href="https://github.com/KandukuriSukeerthi/Infrastructure-Discrepancies-Analysis">**Infrastructure Discrepancies Analysis**</a>
+4. <a href="https://github.com/KandukuriSukeerthi/Infrastructure-Discrepancies-Analysis">**Infrastructure Discrepancies Analysis**</a>
 
    Identifying discrepancies between expected and actual resources allocated across multiple facilities using Python.  
 
-4. <a href="https://github.com/KandukuriSukeerthi/jira-ticket-automation">**JIRA Ticket Automation**</a>
+5. <a href="https://github.com/KandukuriSukeerthi/jira-ticket-automation">**JIRA Ticket Automation**</a>
 
    Automated JIRA workflows using Python to streamline task assignments and reporting.
 

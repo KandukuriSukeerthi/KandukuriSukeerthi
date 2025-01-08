@@ -72,7 +72,7 @@ I am a recent Master’s graduate in Information Technology (April 2024) with 4 
 ### **Data Analysis Expertise**  
 - **Data Preparation & Integration**  
 - **Exploratory & Statistical Analysis**  
-- **Data Modeling & Forecasting**  
+- **Predictive Modeling & Forecasting**  
 - **Data Visualization & Storytelling**  
 - **Data Governance & Compliance**  
 - **Advanced Analytics & Data Science**

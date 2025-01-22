@@ -7,6 +7,10 @@ Data Analyst | Insights-Driven Storyteller
 I am a recent Master’s graduate in Information Technology (April 2024) with 4 years of professional experience as a Data Analyst. Passionate about exploring data, solving complex problems, and leveraging technology, I am excited to advance my career in data analytics and continue learning cutting-edge tools and methodologies.
 
 ## Projects
+1. <a href="https://github.com/KandukuriSukeerthi/Claims-denial-prediction">**Claim Denial Prediction**
+
+   Analyzes and predicts healthcare claim denials using synthetic data (2022–2024) to provide actionable insights for reducing denial rates and improving revenue recovery. Through advanced analytics and XGBoost modeling, it identifies key risk factors, denial trends, and process inefficiencies. Interactive Power BI dashboards highlight strategies to optimize claim workflows and support data-driven decision-making.
+   
 1. <a href="https://github.com/KandukuriSukeerthi/Healthcare-Claims-and-Patient-Analytics">**Healthcare Claims & Patient Analytics**</a>
 
    Analyzes healthcare claims and patient data to optimize claim processing, monitor key metrics like readmission and adherence rates, and provide insights into demographic trends. Leveraging Python, Azure Data Factory, and Power BI, it delivers actionable recommendations to enhance operational efficiency and improve patient outcomes.

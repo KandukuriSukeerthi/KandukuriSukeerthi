@@ -48,18 +48,13 @@ I am a recent Master’s graduate in Information Technology (April 2024) and pas
 
 ---
 
-### **Big Data**  
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)  ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white&style=flat)
-
----
-
 ### **Visualization**  
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
 
 ---
 
 ### **Cloud**  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)  ![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-003B5C?logo=azure-devops&logoColor=white&style=flat) ![Azure Synapse](https://img.shields.io/badge/-Azure%20Synapse-0085CA?logo=azure-synapse-analytics&logoColor=white&style=flat) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-232F3E?logo=amazonaws&logoColor=white&style=flat)  ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=black&style=flat)  ![AWS CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-FF4F8B?logo=amazonaws&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)  ![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-003B5C?logo=azure-devops&logoColor=white&style=flat) ![Azure Synapse](https://img.shields.io/badge/-Azure%20Synapse-0085CA?logo=azure-synapse-analytics&logoColor=white&style=flat) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-232F3E?logo=amazonaws&logoColor=white&style=flat) 
 
 ---
 
@@ -69,7 +64,7 @@ I am a recent Master’s graduate in Information Technology (April 2024) and pas
 ---
 
 ### **Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  ![SAS](https://img.shields.io/badge/-SAS-003F87?logo=sas&logoColor=white&style=flat)  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat)  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat)  ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat)  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat)  ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=flat)
 
 ---
 

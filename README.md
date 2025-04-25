@@ -4,7 +4,7 @@ Data Analyst | Insights-Driven Storyteller
 
 <a href="https://linkedin.com/sukeerthi-kandukuri"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Master’s graduate in Information Technology (April 2024) with 4 years of professional experience as a Data Analyst. Passionate about exploring data, solving complex problems, and leveraging technology, I am excited to advance my career in data analytics and continue learning cutting-edge tools and methodologies.
+I am a recent Master’s graduate in Information Technology (April 2024) and passionate about exploring data, solving complex problems, and leveraging technology, I am excited to advance my career in data analytics and continue learning cutting-edge tools and methodologies.
 
 ## Projects
 1. <a href="https://github.com/KandukuriSukeerthi/Claims-denial-prediction">**Claim Denial Prediction**

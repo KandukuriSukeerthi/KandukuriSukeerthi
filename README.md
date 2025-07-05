@@ -78,4 +78,28 @@ I am a recent Master’s graduate in Information Technology (April 2024) and pas
 
 
 ## Certifications
-<img src="https://img.shields.io/badge/-AZ--104-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+## 🏅 Certifications
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/your-username/certificates/blob/main/PowerBI_Certificate.pdf?raw=true" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/power-bi.png" alt="Power BI" width="60" height="60"/><br/>
+        <b>Power BI Certification</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/your-username/certificates/blob/main/HackerRank_SQL_Advanced_Certificate.pdf?raw=true" target="_blank">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank SQL" width="60" height="60"/><br/>
+        <b>HackerRank SQL (Advanced)</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/your-username/quantium-data-analyst-simulation/blob/main/Quantium_Certificate.pdf?raw=true" target="_blank">
+        <img src="https://img.icons8.com/dusk/96/data-configuration.png" alt="Quantium" width="60" height="60"/><br/>
+        <b>Quantium Analytics Simulation</b>
+      </a>
+    </td>
+  </tr>
+</table>
+

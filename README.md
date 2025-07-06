@@ -133,12 +133,13 @@ I am a **Microsoft Certified Power BI Data Analyst** with an MS in Information T
 
 ### **Expertise**
 - Data Preparation & Integration
+- ETL Pipeline Design
 - Exploratory & Statistical Analysis
 - Predictive Modeling & Forecasting
+- A/B Testing & Hypothesis Testing
+- KPI Design & Stakeholder Communication
 - BI Dashboard Development
-- ETL Processes & Data Engineering
-- Data Governance & Compliance
-- Data Storytelling & Stakeholder Communication
+- Advanced Excel (Power Query, Pivots)
 
 ---
 

@@ -41,7 +41,7 @@ I am a **Microsoft Certified Power BI Data Analyst** with an MS in Information T
 
 ---
 
-## 💡 Projects (Most Recent First)
+## 💡 Projects
 
 ### ✅ [Quantium Data Analytics Job Simulation](https://github.com/KandukuriSukeerthi/Quantiam-Simulation) *(Apr 2025)*
 - Completed data preparation, customer analytics, and deriving commercial insights.

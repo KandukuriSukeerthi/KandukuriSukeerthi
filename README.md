@@ -73,7 +73,7 @@ I am a **Microsoft Certified Power BI Data Analyst** with an MS in Information T
 
 ### ✅ [Customer Segmentation & Promotion Effectiveness](https://github.com/KandukuriSukeerthi/Customer-Behavior-Analysis) *(Aug–Sep 2024)*
 - Segmented customers using K-Means/RFM (targeted marketing ↑20%).
-- Analyzed A/B test results (sales ↑15%, profit ↓5%).
+- Analyzed A/B test results (sales ↑15%, profit ↑5%).
 - Built Tableau dashboards reducing churn by 10%.
   
 ---
